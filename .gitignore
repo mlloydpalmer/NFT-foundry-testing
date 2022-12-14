@@ -1,0 +1,11 @@
+node_modules/
+*.lock
+.openzeppelin/unknown-1337.json
+package-lock.json
+secrets.json
+build/*
+migrations/_2_upgrade.js.old
+.openzeppelin
+# Compiler files
+cache/
+out/
